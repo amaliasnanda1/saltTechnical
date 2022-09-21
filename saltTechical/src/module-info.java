@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author amaliasnanda
- *
- */
-module saltTechical {
-}
